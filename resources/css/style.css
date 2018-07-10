@@ -1,0 +1,42 @@
+/* Universal Styles */
+html {
+  font-size: 18px;
+}
+
+flex-containter {
+  display: flex;
+  justify-content: center;
+}
+/* Header */
+
+header {
+  background-color: black;
+  position: fixed;
+  width: 960px;
+
+}
+
+header p {
+  color: white;
+}
+
+header img {
+  height: 1.5rem;
+  width: auto;
+}
+/* New Arrivals */
+
+#arrival {
+  display: flex;
+  background-image: url(../images/moto.jpeg);
+  background-size: cover;
+  height: 25rem;
+}
+
+/* Nav */
+
+/* Products */
+
+/* Store Details */
+
+/* Footer */
